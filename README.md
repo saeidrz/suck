@@ -32,7 +32,7 @@
 
 `$ git clone https://github.com/Saeidrz/Suck.git`
 
-`$ cd suck`
+`$ cd Suck`
 
 * Install requierments
 
