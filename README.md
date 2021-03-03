@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/.image/20191203_205322.jpg" width="470" height="150">
+  <img src="https://raw.githubusercontent.com/Saeidrz/suck/master/.image/20191203_205322.jpg" width="470" height="150">
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Version-3.1-brightgreen"></p>
 <p align="center">
-  <a href="https://github.com/th3unkn0n">
+  <a href="https://github.com/Saeidrz">
     <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
   </a>
-  <a href="https://github.com/th3unkn0n/TeleGram-Group-Scraper">
-    <img src="https://img.shields.io/github/stars/th3unkn0n/TeleGram-Group-Scraper?style=social">
+  <a href="https://github.com/Saeidrz/TeleGram-Group-Scraper">
+    <img src="https://img.shields.io/github/stars/Saeidrz/TeleGram-Group-Scraper?style=social">
   </a>
 </p>
 <p align="center">
@@ -30,7 +30,7 @@
 
 `$ pkg install -y git python`
 
-`$ git clone https://github.com/th3unkn0n/TeleGram-Scraper.git`
+`$ git clone https://github.com/Saeidrz/Suck.git`
 
 `$ cd TeleGram-Scraper`
 
@@ -62,8 +62,8 @@
 </p>
 <p align="center">
   <a href="https://youtube.com/channel/UCnknCgg_3pVXS27ThLpw3xQ">
-    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/yt.png" width="40" height="40">
+    <img src="https://github.com/Saeidrz/extra/blob/master/.img/yt.png" width="40" height="40">
   </a>
   <a href="https://twitter.com/th3unkn0n">
-    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/tw.png" width="40" height="40">
+    <img src="https://github.com/Saeidrz/extra/blob/master/.img/tw.png" width="40" height="40">
 </p>
